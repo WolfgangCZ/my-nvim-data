@@ -1,0 +1,32 @@
+[INFO  21.01.2024 21:01:08] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=python-lsp-server) {}
+[INFO  21.01.2024 21:01:24] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=python-lsp-server)
+[INFO  21.01.2024 21:08:18] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  21.01.2024 21:08:18] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 21.01.2024 21:08:20] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. powershell is not executable
+[INFO  21.01.2024 21:08:25] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=typescript-language-server)
+[INFO  21.01.2024 21:26:08] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=cpplint) {}
+[INFO  21.01.2024 21:26:12] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=cmakelang) {}
+[INFO  21.01.2024 21:26:13] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=cmake-language-server) {}
+[INFO  21.01.2024 21:26:15] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=cpptools) {}
+[INFO  21.01.2024 21:26:16] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=cpplint)
+[ERROR 21.01.2024 21:26:21] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=cpptools) error=spawn: powershell failed with exit code - and signal -. powershell is not executable
+[INFO  21.01.2024 21:26:21] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=cmakelang)
+[INFO  21.01.2024 21:26:23] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=cmake-language-server)
+[INFO  21.01.2024 21:26:23] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=cspell) {}
+[INFO  21.01.2024 21:26:27] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=css-lsp) {}
+[INFO  21.01.2024 21:26:40] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=css-lsp)
+[INFO  21.01.2024 21:26:43] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  21.01.2024 21:26:44] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=cspell)
+[INFO  21.01.2024 21:26:46] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=html-lsp) {}
+[INFO  21.01.2024 21:26:53] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=json-lsp)
+[INFO  21.01.2024 21:26:57] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=html-lsp)
+[INFO  21.01.2024 21:31:43] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=java-language-server) {}
+[ERROR 21.01.2024 21:31:46] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=java-language-server) error=spawn: powershell failed with exit code - and signal -. powershell is not executable
+[INFO  21.01.2024 21:32:40] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clangd) {}
+[ERROR 21.01.2024 21:32:42] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=clangd) error=spawn: powershell failed with exit code - and signal -. powershell is not executable
+[INFO  21.01.2024 21:33:39] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clangd) {}
+[ERROR 21.01.2024 21:33:40] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=clangd) error=spawn: powershell failed with exit code - and signal -. powershell is not executable
+[INFO  21.01.2024 21:35:44] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clangd) {}
+[ERROR 21.01.2024 21:35:45] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=clangd) error=spawn: powershell failed with exit code - and signal -. powershell is not executable
+[INFO  21.01.2024 21:38:55] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clangd) {}
+[ERROR 21.01.2024 21:38:57] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=clangd) error=spawn: powershell failed with exit code - and signal -. powershell is not executable

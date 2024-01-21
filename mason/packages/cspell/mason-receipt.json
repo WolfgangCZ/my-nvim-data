@@ -1,0 +1,1 @@
+{"metrics":{"start_time":1705868783622,"completion_time":1705868804227},"secondary_sources":[],"schema_version":"1.1","links":{"share":{},"bin":{"cspell.cmd":"node_modules\\.bin\\cspell.cmd"},"opt":{}},"primary_source":{"id":"pkg:npm\/cspell@8.3.2","type":"registry+v1"},"name":"cspell"}

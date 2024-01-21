@@ -1,0 +1,1 @@
+{"metrics":{"start_time":1705868773398,"completion_time":1705868783343},"secondary_sources":[],"schema_version":"1.1","links":{"share":{},"bin":{"cmake-language-server.cmd":"venv\\Scripts\\cmake-language-server.exe"},"opt":{}},"primary_source":{"id":"pkg:pypi\/cmake-language-server@0.1.9","type":"registry+v1"},"name":"cmake-language-server"}
