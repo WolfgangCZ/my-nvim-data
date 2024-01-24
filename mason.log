@@ -30,3 +30,11 @@
 [ERROR 21.01.2024 21:35:45] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=clangd) error=spawn: powershell failed with exit code - and signal -. powershell is not executable
 [INFO  21.01.2024 21:38:55] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clangd) {}
 [ERROR 21.01.2024 21:38:57] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=clangd) error=spawn: powershell failed with exit code - and signal -. powershell is not executable
+[INFO  22.01.2024 20:30:57] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luau-lsp) {}
+[ERROR 22.01.2024 20:30:58] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luau-lsp) error=spawn: powershell failed with exit code - and signal -. powershell is not executable
+[INFO  22.01.2024 20:31:23] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=java-language-server) {}
+[ERROR 22.01.2024 20:31:28] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=java-language-server) error=spawn: powershell failed with exit code - and signal -. powershell is not executable
+[INFO  22.01.2024 20:32:33] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vim-language-server) {}
+[INFO  22.01.2024 20:32:39] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=vim-language-server)
+[INFO  22.01.2024 20:37:40] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clangd) {}
+[ERROR 22.01.2024 20:37:42] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=clangd) error=spawn: powershell failed with exit code - and signal -. powershell is not executable
