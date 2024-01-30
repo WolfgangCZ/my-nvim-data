@@ -1,0 +1,12 @@
+ERR 2024-01-30T19:59:25.376 nvim.14896.0 libuv_process_spawn:97: uv_spawn(pwsh) failed: no such file or directory
+ERR 2024-01-30T19:59:25.461 nvim.14896.0 libuv_process_spawn:97: uv_spawn(pwsh) failed: no such file or directory
+ERR 2024-01-30T19:59:26.940 nvim.14896.0 libuv_process_spawn:97: uv_spawn(pwsh) failed: no such file or directory
+ERR 2024-01-30T20:05:20.190 nvim.17720.0 libuv_process_spawn:97: uv_spawn(pwsh) failed: no such file or directory
+ERR 2024-01-30T20:05:20.273 nvim.17720.0 libuv_process_spawn:97: uv_spawn(pwsh) failed: no such file or directory
+ERR 2024-01-30T20:05:21.753 nvim.17720.0 libuv_process_spawn:97: uv_spawn(pwsh) failed: no such file or directory
+ERR 2024-01-30T20:08:51.331 nvim.6284.0 libuv_process_spawn:97: uv_spawn(pwsh) failed: no such file or directory
+ERR 2024-01-30T20:08:51.433 nvim.6284.0 libuv_process_spawn:97: uv_spawn(pwsh) failed: no such file or directory
+ERR 2024-01-30T20:08:52.892 nvim.6284.0 libuv_process_spawn:97: uv_spawn(pwsh) failed: no such file or directory
+ERR 2024-01-30T20:41:15.694 nvim.1828.0 libuv_process_spawn:97: uv_spawn(pwsh) failed: no such file or directory
+ERR 2024-01-30T20:41:15.772 nvim.1828.0 libuv_process_spawn:97: uv_spawn(pwsh) failed: no such file or directory
+ERR 2024-01-30T20:41:17.275 nvim.1828.0 libuv_process_spawn:97: uv_spawn(pwsh) failed: no such file or directory
