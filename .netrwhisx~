@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='D:/_coding/serious_projects/python-express-parser'
+let g:netrw_dirhist_8='D:\_coding\serious_projects\python-express-parser'
+let g:netrw_dirhist_7='D:/_coding/serious_projects/python-express-parser'
+let g:netrw_dirhist_6='D:/_coding/serious_projects/python-express-parser/schema'
+let g:netrw_dirhist_5='D:/_coding/serious_projects/python-express-parser'
+let g:netrw_dirhist_4='D:\_coding\serious_projects\python-express-parser'
+let g:netrw_dirhist_3='D:/_coding/serious_projects/python-express-parser'
+let g:netrw_dirhist_2='D:\_coding\serious_projects\python-express-parser'
+let g:netrw_dirhist_1='D:/_coding/c-projects'
+let g:netrw_dirhist_0='D:\_coding\c-projects'

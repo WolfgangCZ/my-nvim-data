@@ -54,3 +54,38 @@
 [ERROR 30.01.2024 20:41:31] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=clangd) error=spawn: powershell failed with exit code - and signal -. powershell is not executable
 [INFO  30.01.2024 20:54:42] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clangd) {}
 [INFO  30.01.2024 20:54:45] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=clangd)
+[INFO  19.02.2024 18:44:58] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pylint) {}
+[INFO  19.02.2024 18:45:08] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pylint)
+[INFO  19.02.2024 18:46:33] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) Package(name=typescript-language-server)
+[INFO  19.02.2024 18:46:33] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=cspell) Package(name=cspell)
+[INFO  19.02.2024 18:46:40] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=typescript-language-server)
+[INFO  19.02.2024 18:46:52] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=cspell)
+[INFO  21.11.2024 18:51:32] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  21.11.2024 18:51:36] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luacheck) {}
+[ERROR 21.11.2024 18:51:36] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luacheck) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  21.11.2024 18:51:38] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=luaformatter) {}
+[ERROR 21.11.2024 18:51:38] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=luaformatter) error=spawn: luarocks failed with exit code - and signal -. luarocks is not executable
+[INFO  21.11.2024 18:51:40] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[INFO  21.11.2024 22:15:47] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=cpptools) {}
+[INFO  21.11.2024 22:16:06] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clangd) {}
+[INFO  21.11.2024 22:16:07] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=cmake-language-server) {}
+[INFO  21.11.2024 22:16:09] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=cpplint) {}
+[ERROR 21.11.2024 22:16:10] ...acker\start\mason.nvim/lua/mason-core/providers/init.lua:81: Provider "pypi" "get_supported_python_versions" failed: "Package does not specify supported Python versions."
+[ERROR 21.11.2024 22:16:10] ...acker\start\mason.nvim/lua/mason-core/providers/init.lua:81: Provider "pypi" "get_supported_python_versions" failed: "Package does not specify supported Python versions."
+[ERROR 21.11.2024 22:16:10] ...acker\start\mason.nvim/lua/mason-core/providers/init.lua:92: No provider implementation succeeded for pypi.get_supported_python_versions
+[INFO  21.11.2024 22:16:15] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=cspell) {}
+[ERROR 21.11.2024 22:16:15] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=clangd) error='...\\site\\pack\\packer\\start\\mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:\\\\Users\\\\krali\\\\AppData\\\\Local\\\\nvim-data\\\\mason\\\\packages\\\\clangd".'
+[INFO  21.11.2024 22:16:22] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=css-lsp) {}
+[INFO  21.11.2024 22:16:22] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=cpplint)
+[INFO  21.11.2024 22:16:24] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=html-lsp) {}
+[INFO  21.11.2024 22:16:24] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=cmake-language-server)
+[INFO  21.11.2024 22:16:33] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  21.11.2024 22:16:33] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=cspell)
+[INFO  21.11.2024 22:16:43] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pylint) {}
+[INFO  21.11.2024 22:16:43] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=css-lsp)
+[INFO  21.11.2024 22:16:43] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=python-lsp-server) {}
+[INFO  21.11.2024 22:16:43] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=html-lsp)
+[INFO  21.11.2024 22:16:51] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=json-lsp)
+[INFO  21.11.2024 22:17:01] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pylint)
+[INFO  21.11.2024 22:17:09] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=python-lsp-server)
+[ERROR 21.11.2024 22:17:13] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=cpptools) error="Installation was aborted."

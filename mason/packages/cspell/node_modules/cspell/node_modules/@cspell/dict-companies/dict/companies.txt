@@ -13,6 +13,7 @@ ABMD
 ACS
 AD
 ADBE
+ADI
 ADSK
 AECOM
 AEON
@@ -34,6 +35,7 @@ ANSS
 ANSYS
 ANTM
 APTV
+ARNES
 AT
 ATVI
 AVGO
@@ -47,13 +49,17 @@ Abdulaziz
 Abdullah
 Aberdeen
 Abiomed
+Abios
+AbiosGaming
 Accenture
 Activision
 AdGuard
 Adblock
 Adecco
 Adelaide
+Adidas
 Adobe
+Adsterra
 Advance
 Advanced
 Aegon
@@ -272,8 +278,10 @@ Bouygues
 Bradesco
 Brake
 Brands
+Brandwatch
 Brasil
 Brazilian
+Brewblox
 Bridge
 Bridgestone
 Bridgewater
@@ -315,8 +323,10 @@ CITIC
 CMCSA
 CME
 CMS
+CNCF
 CNP
 COFCO
+COLOPL
 CONSOL
 COST
 CPC
@@ -408,6 +418,7 @@ Chubu
 Chulalongkorn
 Church
 Cincinnati
+Cinemark
 Cintas
 Circuit
 Cisco
@@ -476,14 +487,17 @@ Cosmo
 Costco
 Creations
 Credit
+Criteo
 Crowdin
 Crown
 Cruise
 Cummins
 Curtin
 CyberTrust
+Cybozu
 D
 DDOG
+DFKI
 DISCA
 DISCK
 DISH
@@ -506,7 +520,9 @@ Darmstadt
 Dartmouth
 Darussalam
 Data
+Databricks
 Datadog
+Datanami
 Datang
 Datorama
 Davis
@@ -683,6 +699,7 @@ Flavors
 FleetCor
 Fleetcor
 Flextronics
+Flipkart
 Florida
 Flowserve
 Fluor
@@ -766,8 +783,10 @@ Goodyear
 Google
 Gothenburg
 Gp
+Gradio
 Grafana
 Grainger
+Grammarly
 Graphcool
 Graybar
 Graz
@@ -832,6 +851,7 @@ Heriot-Watt
 Hershey
 Hertz
 Hess
+Hetzner
 Hewlett
 Hewlett-Packard
 Hill
@@ -895,6 +915,7 @@ ISEA
 ISRG
 Iberdrola
 Icahn
+Idealo
 Idean
 Idec
 Idemitsu
@@ -1185,6 +1206,7 @@ Meiji
 Melanox
 Melbourne
 Mellon
+Mercari
 Merchants
 Merck
 MetLife
@@ -1280,6 +1302,7 @@ National
 Nationwide
 Natural
 Navarra
+Naver
 Navistar
 Nederlanden
 Nemours
@@ -1405,6 +1428,7 @@ Pacific
 Packaging
 Packard
 Padova
+PagerDuty
 Palantir
 Panasonic
 Pantry
@@ -1431,10 +1455,12 @@ Penney
 Pennsylvania
 Penske
 Pentair
+Penteston
 People's
 Pepper
 Pepsi
 PepsiCo
+Percona
 PerkinElmer
 Perrigo
 PetSmart
@@ -1522,6 +1548,7 @@ Quintiles
 QuoVadis
 R
 RBS
+REFLEX
 REGN
 RIMAS
 RMIT
@@ -1536,6 +1563,7 @@ Rand
 Randstad
 Raymond
 Raytheon
+Razorpay
 Re
 Reading
 Reaktor
@@ -1551,6 +1579,7 @@ Regency
 Regeneron
 Regions
 Reinsurance
+Relex
 Reliance
 Renault
 Rentals
@@ -1572,6 +1601,7 @@ Rite
 Road
 Robert
 Robinson
+Roblox
 Roche
 Rochester
 Rock-Tenn
@@ -1651,6 +1681,7 @@ Seiki
 Sekiyu
 Semmle
 Sempra
+Sensedia
 Seoul
 Service
 ServiceNow
@@ -1680,10 +1711,13 @@ Sinochem
 Sinomach
 Sinopec
 Sirona
+Sismology
 Sistema
+Skaffold
 Skyworks
 Slevomat
 Smania
+Smarkets
 Smarty
 SmartyStreets
 Smith
@@ -1692,6 +1726,7 @@ Smucker
 Snap-on
 Snapchat
 Snapple
+Snyk
 Societe
 Sodexo
 SoftLayer
@@ -1884,6 +1919,7 @@ UC
 UCLA
 UCSI
 UDR
+UEFA
 UFJ
 UGI
 UGent
@@ -1941,6 +1977,7 @@ Viacom
 ViacomCBS
 Viber
 Victoria
+VictoriaMetrics
 Vienna
 Vimeo
 Vinci
@@ -1955,6 +1992,7 @@ Volkswagen
 Volvo
 Vornado
 Vulcan
+Vultr
 W
 WEC
 WELL
@@ -1980,6 +2018,8 @@ Waterloo
 Waters
 Watson
 Waze
+Webex
+Wedos
 Weiqiao
 WellCare
 WellPoint
@@ -2007,6 +2047,7 @@ Wilmar
 Windstream
 Wisconsin-Madison
 Wistron
+Wix
 Wm
 Wollongong
 Woolworths
@@ -2025,6 +2066,7 @@ Xbox
 Xcel
 Xerox
 Xi'an
+Xiaohongshu
 Xiaomi
 Xilinx
 Xinxing
@@ -2044,6 +2086,7 @@ Yext
 Yleisradio
 Yonsei
 York
+YouTube
 Yum
 Yusen
 ZBRA
@@ -2055,13 +2098,16 @@ Zappos
 Zealand
 Zebra
 Zentrale
+Zerodha
 Zhejiang
+Zhihu
 Ziggo
 Zillow
 Zimmer
 Zions
 Zoetis
 Zoho
+Zscaler
 Zurich
 and
 at

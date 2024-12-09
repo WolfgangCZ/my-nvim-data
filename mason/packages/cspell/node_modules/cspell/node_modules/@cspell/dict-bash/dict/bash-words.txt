@@ -102,15 +102,18 @@ enable
 errexit
 errtrace
 esac
+euxo
 eval
 exec
 exit
 export
+fallocate
 false
 fc
 fg
 fi
 for
+fstype
 function
 functrace
 getopts
@@ -145,6 +148,7 @@ nolog
 notify
 nounset
 onecmd
+pgrep
 physical
 pipefail
 popd

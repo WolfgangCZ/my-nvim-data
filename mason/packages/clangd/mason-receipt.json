@@ -1,1 +1,0 @@
-{"links":{"bin":{"clangd.cmd":"clangd_17.0.3\/bin\/clangd.exe"},"share":{"mason-schemas\\lsp\\clangd.json":"mason-schemas\\lsp.json"},"opt":{}},"metrics":{"start_time":1706644482269,"completion_time":1706644485830},"primary_source":{"type":"registry+v1","id":"pkg:github\/clangd\/clangd@17.0.3"},"secondary_sources":[],"schema_version":"1.1","name":"clangd"}

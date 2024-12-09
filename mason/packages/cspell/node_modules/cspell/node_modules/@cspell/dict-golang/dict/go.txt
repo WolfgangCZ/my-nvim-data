@@ -39,6 +39,7 @@ AI_CANONNAME
 AL
 ALERT
 ALL
+ALLOC
 ALPHA
 AM
 AMD
@@ -112,8 +113,6 @@ Albanian
 Alignof
 AllAdditionals
 AllocedBytesPerOp
-AllocsPerOp
-AllocsPerRun
 Amd
 Anatolian
 AppendUleb128
@@ -241,7 +240,6 @@ Balinese
 Bamum
 Bassa_Vah
 Batak
-BatchCounterAlloc
 Bengali
 Bhaiksuki
 Bidi_Control
@@ -371,14 +369,12 @@ ClassRngList
 ClassRngListsPtr
 CleanCmdEnv
 Clearenv
-Cmd
 Cmdline
 Cmp
 CmsgLen
 CmsgSpace
 Cmsghdr
 CombinedMult
-Cond
 Coptic
 Copysign
 CounterFileTempl
@@ -547,15 +543,12 @@ DWARF
 DX
 DYNAMIC
 December
-Decompressor
 DecryptOAEP
 DecryptPKCS1v15
 DecryptPKCS1v15SessionKey
 Decrypter
 DefPredeclaredTestFuncs
 Defn
-Delim
-Delims
 Demangle
 Demangler
 Deseret
@@ -907,10 +900,8 @@ Erfcinv
 Erfinv
 ErrAmbigContext
 ErrInvalidUTF8
-ErrMissingParen
 ErrNotPollable
 ErrSlashAmbig
-ErrUnexpectedParen
 Errno
 Errorf
 Ethiopic
@@ -1132,8 +1123,10 @@ GOAMD
 GOARCH
 GOARM
 GOEXPERIMENT
+GOGC
 GOGOARCH
 GOMAXPROCS
+GOMEMLIMIT
 GOMIPS
 GOOS
 GOPATH
@@ -1198,6 +1191,7 @@ Gurmukhi
 HA
 HASH
 HI
+HIBERNATE
 HIDDEN
 HIGH
 HIGHER
@@ -2032,6 +2026,7 @@ PF
 PF_MASKOS
 PF_MASKPROC
 PHYS
+PID
 PIE
 PIPE
 PIXIE
@@ -2111,14 +2106,12 @@ Paletted
 Palmyrene
 Panicf
 Panicln
-ParenExpr
 ParseCIDR
 ParseCRL
 ParseDERCRL
 ParsePKCS1PrivateKey
 ParsePKCS1PublicKey
 ParsePKCS8PrivateKey
-ParseTracebacks
 Parthian
 Pathconf
 Pau_Cin_Hau
@@ -2126,13 +2119,11 @@ PeekASN1Tag
 Persian
 Phags_Pa
 Phoenician
-Pid
 Po
 PosixOpenpt
 Ppc
 Pread
 Prec
-Precompute
 PreemptibleLoops
 PreemptibleLoopsInt
 PrimeRK
@@ -2142,7 +2133,6 @@ PtraceDetach
 Ptsname
 PtyError
 Punct
-Punycode
 Pwrite
 QUO
 Quantizer
@@ -2173,6 +2163,7 @@ RENAME
 RESERVED
 RESOURCE
 RESTRICTIONS
+RESUME
 RETURN
 REVERSED
 REVOKE
@@ -2990,7 +2981,6 @@ Rejang
 Rela
 Reloc
 RelocEnt
-ReportAllocs
 ResNclose
 ResNinit
 ResNsearch
@@ -3030,7 +3020,6 @@ SHA384WithRSAPSS
 SHA512WithRSAPSS
 SHARED
 SHF
-SHF_ALLOC
 SHF_EXECINSTR
 SHF_MASKOS
 SHF_MASKPROC
@@ -3186,6 +3175,7 @@ SO
 SOAResource
 SOCK
 SOCKET
+SOCKETS
 SOCK_MAXADDRLEN
 SOCK_RDM
 SOCK_SEQPACKET
@@ -3288,6 +3278,7 @@ STYP_TYPCHK
 SUB
 SUBSYSTEM
 SUFFIX
+SUSPEND
 SWAP
 SWITCH
 SYM
@@ -3447,10 +3438,6 @@ SYS_NFSSVC
 SYS_OPEN_DPROTECTED_NP
 SYS_OPEN_NOCANCEL
 SYS_PATHCONF
-SYS_PID_HIBERNATE
-SYS_PID_RESUME
-SYS_PID_SHUTDOWN_SOCKETS
-SYS_PID_SUSPEND
 SYS_POLL_NOCANCEL
 SYS_PREAD
 SYS_PREAD_NOCANCEL
@@ -3561,7 +3548,6 @@ SYS___MAC_EXECVE
 SYS___MAC_GETFSSTAT
 SYS___MAC_GET_LCID
 SYS___MAC_GET_LCTX
-SYS___MAC_GET_PID
 SYS___MAC_SET_LCTX
 SYS___OLD_SEMWAIT_SIGNAL
 SYS___OLD_SEMWAIT_SIGNAL_NOCANCEL
@@ -3624,13 +3610,11 @@ SetBpfImmediate
 SetBpfInterface
 SetBpfPromisc
 SetBpfTimeout
-SetCgoTraceback
 SetControllen
 SetFinalizer
 SetKeepAlivesEnabled
 SetMantExp
 SetNonblock
-SetTraceback
 Setegid
 Setenv
 Seteuid
@@ -3915,7 +3899,6 @@ UnixMilli
 Unlinkat
 Unlockpt
 Unmarshal
-Unmarshaler
 Unsetenv
 Updatef
 Userinfo
@@ -4065,8 +4048,10 @@ align
 alignment
 alive
 all
+alloc
 allocate
 allocated
+allocs
 allow
 allowed
 alpha
@@ -4140,6 +4125,7 @@ bare
 base
 basic
 basicauth
+batch
 be
 before
 begin
@@ -4264,6 +4250,7 @@ close
 closed
 closer
 closing
+cmd
 cmerge
 cmplx
 cnt
@@ -4306,6 +4293,7 @@ compute
 con
 concat
 concatenation
+cond
 condition
 conditional
 config
@@ -4404,6 +4392,7 @@ decodemeta
 decoder
 decoding
 decomposition
+decompressor
 decrypt
 decryption
 deep
@@ -4420,6 +4409,8 @@ del
 delay
 delete
 deleted
+delim
+delims
 denom
 dependency
 deprecated
@@ -5161,6 +5152,7 @@ param
 parameter
 parameters
 params
+paren
 parens
 parent
 parse
@@ -5197,6 +5189,7 @@ phys
 physical
 pi
 picture
+pid
 ping
 pinger
 pipe
@@ -5233,6 +5226,7 @@ pprof
 pragma
 precedence
 precision
+precompute
 precomputed
 precondition
 predefined
@@ -5282,6 +5276,7 @@ ptr
 public
 publish
 punctuation
+punycode
 pure
 push
 pusher
@@ -5688,6 +5683,8 @@ too
 tool
 total
 trace
+traceback
+tracebacks
 track
 trail
 trailer
@@ -5756,6 +5753,7 @@ unknown
 unlink
 unlock
 unmap
+unmarshaler
 unmount
 unpack
 unprocessable

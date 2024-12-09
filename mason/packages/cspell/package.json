@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cspell": "^8.3.2"
+    "cspell": "^8.16.0"
   }
 }
